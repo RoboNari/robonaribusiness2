@@ -1,2 +1,2 @@
-# robonaribusiness2
-to create most attractive marketing Robots 
+# robonaribusiness
+Robonari is initiative to develop most interactive humanoid robots
