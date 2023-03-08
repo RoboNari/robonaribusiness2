@@ -184,7 +184,7 @@ main {
 
 .main-header {
   height: 98vh;
-  background-image: linear-gradient(to right bottom, rgba(32, 31, 31, 0.8), rgba(0, 0, 0, 0.8)), url("images/thumb-1920-1041825.jpg");
+  background-image: linear-gradient(to right bottom, rgba(32, 31, 31, 0.8), rgba(0, 0, 0, 0.8)), url("https://drive.google.com/file/d/1hj2YyZgD9V66ltgvKUF49n68l9nwNyu0/view?usp=share_link");
   background-size: cover;
   background-position: top;
   position: relative; }
